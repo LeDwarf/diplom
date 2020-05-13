@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\TDB_analisys.exe.config
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\TDB_analisys.exe
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\TDB_analisys.pdb
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.exe
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.pdb
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.FormChart.resources
+C:\Users\Пользователь\source\repos\TDB_analisys\TDB_analisys\obj\Debug\TDB_analisys.FormStarting.resources
